@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @MrAlone120
-- 👀 I’m interested in Java Scripet And HTML - CSS
-- 🌱 I Think Ill Learn Python Soon
-- 📫 My Accounts : 
-- Instagram : 8_38b
-- Discord : w.yy
